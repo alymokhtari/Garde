@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="720pt" height="720pt" viewBox="0 0 720 720" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="4096pt" height="2048pt" viewBox="0 0 4096 2048" version="1.1">
 <g id="surface1">
-<rect x="0" y="0" width="720" height="720" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
-<path style="fill:none;stroke-width:0.015;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0.5 0 L 0 0 L 0 1 L 0.5 1 M 0.5 0 C 0.5 0 1.6 0.5 0.5 1 " transform="matrix(720,0,0,720,0,0)"/>
+<rect x="0" y="0" width="4096" height="2048" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
+<path style="fill:none;stroke-width:0.006;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0.219727 0.253906 L 0.239727 0.273907 L 0.219727 0.293907 Z M 0.219727 0.253906 " transform="matrix(4096,0,0,2048,0,0)"/>
+<path style="fill:none;stroke-width:0.006;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0.212402 0.0585938 L 0.232403 0.0785942 L 0.212402 0.0985947 Z M 0.212402 0.0585938 " transform="matrix(4096,0,0,2048,0,0)"/>
+<path style="fill:none;stroke-width:0.006;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0.117657 0.0585938 L 0.0976562 0.0585938 L 0.0976562 0.0985947 L 0.117657 0.0985947 L 0.117657 0.0585938 C 0.128702 0.0585938 0.137656 0.0675488 0.137656 0.0785942 C 0.137656 0.0896397 0.128702 0.0985947 0.117657 0.0985947 " transform="matrix(4096,0,0,2048,0,0)"/>
+<path style="fill:none;stroke-width:0.006;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(0%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 0.0248833 0.205078 L 0.00488281 0.205078 L 0.00488281 0.245079 L 0.0248833 0.245079 M 0.0448837 0.245079 C 0.0200005 0 0.0688829 0.225079 0.0248833 0.245079 " transform="matrix(4096,0,0,2048,0,0)"/>
+<path style="fill:none;stroke-width:0.006;stroke-linecap:butt;stroke-linejoin:round;stroke:rgb(0%,0%,0%);stroke-opacity:0.9;stroke-miterlimit:10;" d="M 0.102539 0.0683594 L 0.0610352 0.0390625 " transform="matrix(4096,0,0,2048,0,0)"/>
 </g>
 </svg>
